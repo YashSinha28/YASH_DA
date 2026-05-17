@@ -16,6 +16,7 @@ This project demonstrates an end-to-end data science workflow designed to clean,
 * Jupyter Notebook
 
 
+
 # Predictive Modeling Using Machine Learning
 
 ## Project Overview
@@ -34,8 +35,22 @@ This project demonstrates an end-to-end supervised machine learning workflow des
 * Matplotlib & Seaborn
 * Jupyter Notebook
 
-Pandas
 
-Matplotlib & Seaborn
 
-Jupyter Notebook
+# Exploratory Data Analysis (EDA) Project
+
+## Project Overview
+This project focuses on uncovering hidden patterns, trends, and relationships within a dataset using Exploratory Data Analysis (EDA). By applying statistical summaries and data visualization techniques, this workflow transforms raw data into understandable and actionable insights.
+
+### Key Features Applied:
+* **Data Profiling:** Utilized Pandas to generate statistical summaries and structural overviews of the dataset.
+* **Data Cleaning & Assessment:** Identified missing values and assessed data quality before analysis.
+* **Univariate & Bivariate Analysis:** Explored individual variable distributions and their relationships using `Matplotlib` and `Seaborn`.
+* **Correlation Analysis:** Generated correlation matrices and heatmaps to identify key influencing factors.
+* **Data Storytelling:** Structured findings into visual reports to clearly present the driving factors behind the data.
+
+### Tools Used:
+* Python 3
+* Pandas & NumPy
+* Matplotlib & Seaborn
+* Jupyter Notebook
