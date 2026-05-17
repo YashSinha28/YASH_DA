@@ -54,3 +54,23 @@ This project focuses on uncovering hidden patterns, trends, and relationships wi
 * Pandas & NumPy
 * Matplotlib & Seaborn
 * Jupyter Notebook
+
+
+
+# Applied Data Science Project: Retail Sales Performance Analysis
+
+## Project Overview
+This project demonstrates an end-to-end data science workflow applied to a real-world retail dataset. The objective is to analyze historical sales transactions, uncover consumer purchasing trends, identify high-performing product categories, and build a predictive baseline to forecast future sales revenue.
+
+### Key Features Applied:
+* **Domain-Specific Analysis:** Evaluated sales data structures focusing on retail health metrics like Average Order Value (AOV), monthly revenue growth, and profit margins.
+* **End-to-End Workflow:** Conducted data ingestion, missing value remediation, feature engineering (extracting time-based components), and predictive modeling.
+* **Trend Forecasting:** Implemented a regression baseline to model and predict sales trends based on operational and seasonal factors.
+* **Business Intelligence Visualization:** Created production-ready dashboards highlighting revenue trajectories, top-performing product categories, and correlation matrices to drive retail strategy.
+
+### Tools Used:
+* Python 3
+* Pandas & NumPy
+* Scikit-Learn (Linear Regression)
+* Matplotlib & Seaborn
+* Jupyter Notebook
